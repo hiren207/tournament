@@ -1,0 +1,16 @@
+Algorithm is not totally compeleted  it only scheduling matches
+
+completed things
+
+
+- Created custom framework (with oops concept)
+- Tried to use oops all where i can apply
+- Basic HTML validation applied
+- Mysql error not handled
+- URl not exist than redirectioon handled
+- NOt added any server side validation
+
+Installation steps
+
+1 .config/config.php has DB connection values
+2 . databasefiles folder has DB files
